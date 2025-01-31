@@ -1,0 +1,38 @@
+{
+  "name": "@channela9/mogi",
+  "version": "0.1.0",
+  "description": "A simulation framework that leverages LLMs to simulate various processes and interactions between agents.",
+  "main": "mogi.ts",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "simulation",
+    "AI",
+    "LLM",
+    "agents",
+    "process",
+    "interaction",
+    "framework",
+    "nodejs",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channelA9/mogi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "types": "./mogi.d.ts",
+  "bugs": {
+    "url": "https://github.com/channelA9/mogi/issues"
+  },
+  "homepage": "https://github.com/channelA9/mogi#readme"
+}
